@@ -1,0 +1,10 @@
+# Private career record. Never publish.
+profile/
+journal/
+intake/
+resumes/
+exploration/
+applications.md
+*.pdf
+.env
+__pycache__/

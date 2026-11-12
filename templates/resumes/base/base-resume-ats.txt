@@ -1,0 +1,23 @@
+FIRST LAST
+City, ST | email@example.com | (555) 555-5555 | linkedin.com/in/handle
+
+SUMMARY
+Optional. Two to three lines framing level, domain, and the one thing you want remembered.
+
+EXPERIENCE
+Current Title | Current Company | City, ST | Jan 2024 - Present
+- Strong verb + what you built or changed + scale or metric + outcome.
+- Second bullet.
+
+Previous Title | Current Company | City, ST | Jan 2021 - Jan 2024
+- Every role line gets its own bullets directly beneath it.
+
+Earlier Title | Earlier Company | City, ST | 2017 - 2021
+- One to three bullets for older roles.
+
+EDUCATION
+Degree, Field | School | Year
+
+SKILLS
+Languages: item, item, item
+Tools: item, item, item
